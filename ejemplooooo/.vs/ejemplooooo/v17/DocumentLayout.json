@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!TOULOUSE VIDEOJUEGOS\\3 CICLO 2024\\TALLER 3D\\EJEMPLO\\dasdsad\\ejemplooooo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7926AAB4-94CD-444A-B39A-6BEB6BC735E8}|ejemplooooo\\ejemplooooo.csproj|d:\\!toulouse videojuegos\\3 ciclo 2024\\taller 3d\\ejemplo\\dasdsad\\ejemplooooo\\ejemplooooo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7926AAB4-94CD-444A-B39A-6BEB6BC735E8}|ejemplooooo\\ejemplooooo.csproj|solutionrelative:ejemplooooo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!TOULOUSE VIDEOJUEGOS\\3 CICLO 2024\\TALLER 3D\\EJEMPLO\\dasdsad\\ejemplooooo\\ejemplooooo\\Program.cs",
+              "RelativeDocumentMoniker": "ejemplooooo\\Program.cs",
+              "ToolTip": "D:\\!TOULOUSE VIDEOJUEGOS\\3 CICLO 2024\\TALLER 3D\\EJEMPLO\\dasdsad\\ejemplooooo\\ejemplooooo\\Program.cs",
+              "RelativeToolTip": "ejemplooooo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:31:03.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
